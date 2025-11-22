@@ -15,4 +15,4 @@ Appen ber ikke om tilgang til kamera, bilder, kontakter eller andre sensitive da
 Hvis du har spørsmål om personvern, kan du kontakte utvikler:
 
 Navn: Bernt Lunestad Røen  
-E-post: tilb.bernt@hotmail.com
+E-post: tilbernt@hotmail.com
